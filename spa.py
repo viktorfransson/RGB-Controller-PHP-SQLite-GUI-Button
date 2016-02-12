@@ -44,7 +44,11 @@ DELAY_INF = float('Inf')
 DELAY_RAND = 3
 DELAY_RAINBOW = 0.1
 DELAY_ALLCOLORS = 0.1
+<<<<<<< HEAD
 LIGHTS_OUT = 60 * 45
+=======
+LIGHTS_OUT = 60 * 35 # seconds
+>>>>>>> master
 LOG_TIME = 120
 PARAMETER = 10
 
