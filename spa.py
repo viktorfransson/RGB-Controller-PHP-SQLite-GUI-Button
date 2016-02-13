@@ -29,6 +29,8 @@ def phpServer():
 	subprocess.call(temp,shell=True)
 start_new_thread(phpServer,())
 
+# Test 2
+
 # Pins
 RED_PIN	= 27
 GREEN_PIN = 17
